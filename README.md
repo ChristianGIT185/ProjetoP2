@@ -36,4 +36,4 @@ Este projeto foi desenvolvido para praticar:
 - Organização de código em Java
 
 ## Autor
-Christian
+Christian Moreira Santos
